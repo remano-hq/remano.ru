@@ -1,2 +1,2 @@
-# remontato.ru
+# remano.ru
 Official web-site
