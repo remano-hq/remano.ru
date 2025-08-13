@@ -1,2 +1,2 @@
-# remano.ru
+# remoji.ru
 Official web-site
